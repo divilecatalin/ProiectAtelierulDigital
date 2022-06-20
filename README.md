@@ -2,11 +2,11 @@
 
 An application that allow user to insert some notes into a database.
 A note have the following fields:
--id
--description
--dueDate
--priority
--status.
+- id
+- description
+- dueDate
+- priority
+- status.
 
 The application runs in console.
 
